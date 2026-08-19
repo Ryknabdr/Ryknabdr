@@ -32,7 +32,7 @@ whoami:
   name        : "Muh Abdur Raihan"
   role        : Frontend & Mobile Developer
   education   : D4 Teknik Informatika, Sem. 06
-  gpa         : 3.92 / 4.00
+  gpa         : 3.90 / 4.00
   stack       : [React, Vue.js, Flutter]
   status      : "always shipping something"
 ```
